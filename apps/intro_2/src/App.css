@@ -1,0 +1,13 @@
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.container {
+  padding: 20px;
+}
+.button-group {
+  display: flex;
+  gap: 10px;
+}
