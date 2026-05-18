@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react-jsx", // Important for React projects
+    "module": "ESNext",
+    "target": "ESNext"
+  },
+  "include": ["src"] // Tell IntelliJ to include your source files
+}
