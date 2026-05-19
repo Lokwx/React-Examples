@@ -37,6 +37,6 @@ export default function App() {
         <Header/>
         <Search/>
         <Footer/>
-    </div>
+        </div>
     </div>
 }
